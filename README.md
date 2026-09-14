@@ -187,8 +187,8 @@ fingers, wired back to a Seeed XIAO ESP32-C3 on the back of the hand.
 
 ![The bench during the build](docs/images/bench.jpg)
 
-<sub>Where it got made. The XIAO and its LiPo on the breadboard, helping hands
-and a magnifier for the motor leads, and a multimeter never far away.</sub>
+Where it got made. The XIAO and its LiPo on the breadboard, helping hands and
+a magnifier for the motor leads, and a multimeter never far away.
 
 | Part | Spec | Job |
 |---|---|---|
