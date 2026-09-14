@@ -185,6 +185,11 @@ committed cache. After that the coach speaks in the real cloud voice
 Hand-built, output only. Five coin motors sit in heat-shrink sleeves on the
 fingers, wired back to a Seeed XIAO ESP32-C3 on the back of the hand.
 
+![The bench during the build](docs/images/bench.jpg)
+
+<sub>Where it got made. The XIAO and its LiPo on the breadboard, helping hands
+and a magnifier for the motor leads, and a multimeter never far away.</sub>
+
 | Part | Spec | Job |
 |---|---|---|
 | Glove MCU | Seeed XIAO ESP32-C3, 21 x 18 mm | BLE GATT server, 5 PWM channels |
